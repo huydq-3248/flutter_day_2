@@ -1,0 +1,2 @@
+const String BASE_URL = 'https://api.themoviedb.org/3';
+const String TOKEN = 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NzQ2Njg1NTI5OTU3YTIwYzk0MjA0OTEzYTlkYzAyZSIsInN1YiI6IjY0NDY5ZjQzNzY0ODQxMDg0MGMwMTNmNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RayBKNK5-vjvKXhCjVAp5XUXlkxEOAlYw5Nj-5EL5T4';
